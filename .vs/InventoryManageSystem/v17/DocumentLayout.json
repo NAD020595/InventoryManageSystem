@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Learn\\InventoryManageSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|e:\\learn\\inventorymanagesystem\\application\\dto\\request\\loginuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\loginuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|e:\\learn\\inventorymanagesystem\\application\\dto\\request\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|e:\\learn\\inventorymanagesystem\\application\\dto\\request\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|e:\\learn\\inventorymanagesystem\\application\\dto\\request\\changeuserclaimrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\changeuserclaimrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|e:\\learn\\inventorymanagesystem\\application\\interface\\identity\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|solutionrelative:application\\interface\\identity\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|e:\\learn\\inventorymanagesystem\\application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B32D1A-CE37-4B49-9120-CA62F35F5B86}|Application\\Application.csproj|solutionrelative:application\\extension\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,15 +70,89 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\Policy.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Request\\Policy.cs",
+              "ToolTip": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\Policy.cs",
+              "RelativeToolTip": "Application\\DTO\\Request\\Policy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:54:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUserRequestDTO.cs",
+              "DocumentMoniker": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\LoginUserRequestDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Request\\LoginUserRequestDTO.cs",
+              "ToolTip": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\LoginUserRequestDTO.cs",
+              "RelativeToolTip": "Application\\DTO\\Request\\LoginUserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:54:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateUserRequestDTO.cs",
+              "DocumentMoniker": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\CreateUserRequestDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Request\\CreateUserRequestDTO.cs",
+              "ToolTip": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\CreateUserRequestDTO.cs",
+              "RelativeToolTip": "Application\\DTO\\Request\\CreateUserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:33:40.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeUserClaimRequestDTO.cs",
+              "DocumentMoniker": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\ChangeUserClaimRequestDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Request\\ChangeUserClaimRequestDTO.cs",
+              "ToolTip": "E:\\Learn\\InventoryManageSystem\\Application\\DTO\\Request\\ChangeUserClaimRequestDTO.cs",
+              "RelativeToolTip": "Application\\DTO\\Request\\ChangeUserClaimRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:33:08.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "E:\\Learn\\InventoryManageSystem\\Application\\Interface\\Identity\\IAccount.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Identity\\IAccount.cs",
+              "ToolTip": "E:\\Learn\\InventoryManageSystem\\Application\\Interface\\Identity\\IAccount.cs",
+              "RelativeToolTip": "Application\\Interface\\Identity\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:19:59.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Learn\\InventoryManageSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Application\\Extension\\Identity\\ApplicationUser.cs",
+              "ToolTip": "E:\\Learn\\InventoryManageSystem\\Application\\Extension\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Application\\Extension\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:17:36.458Z",
+              "EditorCaption": ""
             }
           ]
         }
