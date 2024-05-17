@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "HMsZTcjI6Nravt8W3RxTaALCTe3kjxeCj1E4sdLhuonvB0tnKw3anOPOimab1Zc8FoeLYoOuwxggFpDMC6pQpA==",
+  "dgSpecHash": "PH43bkohYtXAhX1Zv/wBG51cTLfi7uvuzfkgnhJlyXg+lajZ0COVL9lOqkr+48jWIAZUl6Iir2pYTjFw6hoBnA==",
   "success": true,
   "projectFilePath": "E:\\Learn\\InventoryManageSystem\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.5\\microsoft.aspnetcore.cryptography.internal.8.0.5.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.5\\microsoft.aspnetcore.cryptography.keyderivation.8.0.5.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.5\\microsoft.extensions.identity.core.8.0.5.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.5\\microsoft.extensions.identity.stores.8.0.5.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\duy.nguyen1\\.nuget\\packages\\netcodehub.packages.extensions.attributes.requiredguid\\1.0.0\\netcodehub.packages.extensions.attributes.requiredguid.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

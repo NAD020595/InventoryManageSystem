@@ -1,0 +1,12 @@
+E:\Learn\InventoryManageSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Learn\InventoryManageSystem\Domain\bin\Debug\net8.0\Domain.dll
+E:\Learn\InventoryManageSystem\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.dll
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Learn\InventoryManageSystem\Domain\obj\Debug\net8.0\ref\Domain.dll
